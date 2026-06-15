@@ -1,6 +1,6 @@
 ---
 pagetitle: "Sauleh Siddiqui — Optimization & Operations Research for Environmental Systems"
-description: "Mathematical optimization and operations research applied to environmental systems, including energy infrastructure, food systems, and human health."
+description: "Mathematical modeling research applied to environmental systems, including energy infrastructure, food systems, and human health."
 page-layout: full
 toc: false
 ---
@@ -15,7 +15,7 @@ toc: false
 ::: {.hero-main}
 # Sauleh Siddiqui {.name}
 
-[Mathematical Modeling research for Energy, Food, and Infrastructure systems]{.role}
+[Mathematical Modeling Research for Energy, Food, and Infrastructure systems]{.role}
 
 [Professor of Environmental Science, American University · Former Chief Energy Modeler, U.S. Energy Information Administration]{.creds}
 
@@ -52,17 +52,17 @@ He directs a \$15 million [National Science Foundation](https://www.nsf.gov) res
 ::: {.focus-grid}
 ::: {.focus-card}
 #### Optimization & operations research
-Linear, mixed-integer, conic, and equilibrium models for complex decision and investment problems.
+Linear, mixed-integer, bilevel, and equilibrium models for complex decision and investment problems.
 :::
 
 ::: {.focus-card}
 #### Energy systems
-Markets, infrastructure, and the energy transition — informed by federal-scale modeling at the U.S. EIA.
+Markets, infrastructure, and the energy systems informed by federal-scale modeling at the U.S. EIA.
 :::
 
 ::: {.focus-card}
 #### Food & agricultural systems
-Supply-chain optimization and waste reduction across a 15-university research network.
+Modeling food systems and wasted food reduction across a 15-university research network. 
 :::
 
 ::: {.focus-card}
