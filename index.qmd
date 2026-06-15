@@ -15,7 +15,7 @@ toc: false
 ::: {.hero-main}
 # Sauleh Siddiqui {.name}
 
-[Mathematical optimization & operations research for environmental systems]{.role}
+[Mathematical Modeling research for Energy, Food, and Infrastructure systems]{.role}
 
 [Professor of Environmental Science, American University · Former Chief Energy Modeler, U.S. Energy Information Administration]{.creds}
 
