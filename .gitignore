@@ -1,0 +1,13 @@
+# Quarto build output (generated — rebuilt on deploy)
+/_site/
+/.quarto/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+**/*.quarto_ipynb

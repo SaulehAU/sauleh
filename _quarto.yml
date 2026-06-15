@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "assets/**"
+    - "CNAME"
+
+website:
+  title: "Sauleh Siddiqui"
+  site-url: "https://sauleh.com"
+  description: "Mathematical optimization and operations research applied to environmental systems, including energy infrastructure, food systems, and human health."
+  favicon: assets/favicon.svg
+
+  navbar:
+    pinned: true
+    background: light
+    collapse-below: lg
+    right:
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: assets/SiddiquiCVDetailed_compact.pdf
+        target: _blank
+
+  page-footer:
+    border: false
+    left: "© 2026 Sauleh Siddiqui"
+    right:
+      - icon: github
+        href: https://github.com/SaulehAU
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sauleh
+        aria-label: LinkedIn
+      - text: "<i class='ai ai-google-scholar'></i>"
+        href: https://scholar.google.com/citations?user=D7Ms9fIAAAAJ
+        aria-label: Google Scholar
+      - icon: envelope-fill
+        href: "mailto:sauleh@american.edu"
+        aria-label: Email
+
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    theme: [default, theme.scss]
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    include-in-header: _includes/header.html
+
+execute:
+  freeze: auto

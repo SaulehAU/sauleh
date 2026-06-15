@@ -1,0 +1,32 @@
+---
+pagetitle: "Publications — Sauleh Siddiqui"
+description: "Peer-reviewed publications, working papers, and reports."
+page-layout: full
+toc: false
+listing:
+  contents: data/publications.yml
+  type: default
+  sort: "date desc"
+  fields: [date, title, venue, citations, description, categories]
+  field-display-names:
+    date: "Year"
+    description: "Links"
+  date-format: "YYYY"
+  categories: numbered
+  sort-ui: [date, title, citations]
+  filter-ui: true
+  page-size: 25
+---
+
+:::: {.pubs-head}
+# Publications {.name}
+
+[Peer-reviewed papers, working papers, and reports. Auto-synced weekly from Google Scholar.]{.tagline}
+
+```{=html}
+<div class="actions">
+  <a class="btn-cta btn-cta--solid" href="https://scholar.google.com/citations?user=D7Ms9fIAAAAJ" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i>&nbsp; Google Scholar</a>
+  <a class="btn-cta btn-cta--ghost" href="https://orcid.org/0000-0002-2466-8924" target="_blank" rel="noopener"><i class="ai ai-orcid"></i>&nbsp; ORCID</a>
+</div>
+```
+::::
