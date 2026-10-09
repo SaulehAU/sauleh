@@ -1,6 +1,6 @@
 ---
-pagetitle: "Sauleh Siddiqui — Optimization & Operations Research for Environmental Systems"
-description: "Mathematical modeling research applied to environmental systems, including energy infrastructure, food systems, and human health."
+pagetitle: "Sauleh Siddiqui — Mathematical Modeling Research for Energy, Food, and Infrastructure systems"
+description: "Mathematical Modeling Research for Energy, Food, and Infrastructure systems"
 page-layout: full
 toc: false
 ---
@@ -43,7 +43,7 @@ toc: false
 :::: {.bio}
 Sauleh Siddiqui develops mathematical models for energy, food, and environmental decision-making that incorporate infrastructure, game theory, markets, and policy. He applies mathematical optimization and operations research to environmental systems, spanning energy infrastructure, food systems, and human health, turning complex technical and policy questions into models that inform real-world decisions on investment, risk, and strategy.
 
-He directs a \$15 million [National Science Foundation](https://www.nsf.gov) research network on sustainable food systems spanning over 15 universities, 100 researchers, and numerous public and private partners, and previously served as Chief Energy Modeler at the [U.S. Energy Information Administration](https://www.eia.gov), where he led development of the federal government's next-generation energy modeling platform. His methods span linear, mixed-integer, conic, and equilibrium programming, applied across markets, infrastructure, and public policy.
+He directs a \$15 million [National Science Foundation](https://www.nsf.gov) [research network on sustainable food systems](https://wastedfood.american.edu/) spanning over 15 universities, 100 researchers, and numerous public and private partners, and previously served as Chief Energy Modeler at the [U.S. Energy Information Administration](https://www.eia.gov), where he led development of the federal government's [next-generation energy modeling platform](https://www.eia.gov/totalenergy/data/bluesky/). His methods span linear, mixed-integer, conic, and equilibrium programming, applied across markets, infrastructure, and public policy.
 ::::
 
 :::: {.focus}
@@ -52,17 +52,17 @@ He directs a \$15 million [National Science Foundation](https://www.nsf.gov) res
 ::: {.focus-grid}
 ::: {.focus-card}
 #### Optimization & operations research
-Linear, mixed-integer, bilevel, and equilibrium models for complex decision and investment problems.
+Nonlinear, mixed-integer, bilevel, and equilibrium models for complex decision and investment problems.
 :::
 
 ::: {.focus-card}
 #### Energy systems
-Markets, infrastructure, and the energy systems informed by federal-scale modeling at the U.S. EIA.
+Markets, infrastructure, and the energy systems informed by federal and international modeling at the U.S. EIA.
 :::
 
 ::: {.focus-card}
 #### Food & agricultural systems
-Modeling food systems and wasted food reduction across a 15-university research network. 
+Modeling food systems and wasted food reduction across a multi-university research network. 
 :::
 
 ::: {.focus-card}
