@@ -17,7 +17,8 @@ toc: false
 
 [Mathematical Modeling Research for Energy, Food, and Infrastructure systems]{.role}
 
-[Professor of Environmental Science, American University · Former Chief Energy Modeler, U.S. Energy Information Administration]{.creds}
+[Professor of Environmental Science, American University]{.creds}
+[Former Chief Energy Modeler, U.S. Energy Information Administration]{.creds}
 
 ```{=html}
 <div class="social">
