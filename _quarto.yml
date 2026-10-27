@@ -17,9 +17,9 @@ website:
     collapse-below: lg
     right:
       - text: "C-NEMS"
-        href: https://www.c-nems.org
+        href: https://c-nems.org
       - text: "Multiscale RECIPES"
-        href: https://www.wastedfood.american.edu
+        href: https://wastedfood.american.edu
       - text: "Publications"
         href: publications.qmd
       - text: "CV"
